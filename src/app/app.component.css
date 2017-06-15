@@ -1,0 +1,14 @@
+div#wrapper{
+    background-color: silver;
+    padding: 20px;
+}
+div#nav, #main{
+    background-color: #a0c6f6;
+    border: 5px solid black;
+    display: inline-block;
+    margin-top: 50px;
+    vertical-align: top;
+}
+div#main{
+    margin-left: 50px;
+}
